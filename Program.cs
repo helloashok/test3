@@ -9,6 +9,9 @@ namespace Test
 
             System.Diagnostics.Debug.WriteLine("");
             System.Diagnostics.Debug.WriteLine("");
+            System.Diagnostics.Debug.WriteLine("this is the third");
+            System.Diagnostics.Debug.WriteLine("this is the ");
+
 
 
         }
